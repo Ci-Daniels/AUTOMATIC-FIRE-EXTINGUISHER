@@ -13,9 +13,10 @@
    Jumper wires
 
 ## Specifications 
-   ##Arduino Mega 2560 
-   Input Voltage (recommended)	7-12V
-   Input Voltage (limit)	6-20V
+
+   ## Arduino Mega 2560 
+   Input Voltage: 7V-12V
+   Input Voltage: 6-20V
    It has 54 digital input/output pins (of which 15 can be used as PWM outputs)
    16 analog inputs, 
    A 16 MHz crystal oscillator and USB connection, 
@@ -23,7 +24,7 @@
    An ICSP header
    A reset button.
    
-   ##LM 393 flame sensor 
+   ## LM 393 flame sensor 
     Spectrum range: 760nm ~ 1100nm (ie. 80CM tested by regular lighter)
     Detection angle: -60 - 60 degree
     Power: 3.3V ~ 5.3V
@@ -32,14 +33,14 @@
     Mounting holes size: 2.0mm
 
    
-   ##SRD-05VDC-SL-C Relay
+   ## SRD-05VDC-SL-C Relay
      Coil Voltage	5VDC
      Contact Form	SPDT (1 Form C)
      Contact Rating (Current)	10A
      Switching Voltage	277VAC, 28VDC - Max
 
    
-   ##L9110 fan fire extinguisher-DC motor
+   ## L9110 fan fire extinguisher-DC motor
       The supply voltage of 5 V
       Current consumption: approx. 230 mA
       Built-in controller of the motor L9110
